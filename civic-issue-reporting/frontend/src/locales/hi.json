@@ -1,0 +1,144 @@
+{
+  "common": {
+    "loading": "लोड हो रहा है...",
+    "error": "कुछ गलत हुआ",
+    "save": "सेव करें",
+    "cancel": "रद्द करें",
+    "delete": "डिलीट करें",
+    "edit": "संपादित करें",
+    "submit": "सबमिट करें",
+    "search": "खोजें",
+    "filter": "फिल्टर",
+    "back": "वापस",
+    "next": "अगला",
+    "previous": "पिछला",
+    "close": "बंद करें"
+  },
+  "nav": {
+    "home": "होम",
+    "dashboard": "डैशबोर्ड",
+    "complaints": "शिकायतें",
+    "communities": "समुदाय",
+    "map": "मानचित्र",
+    "profile": "प्रोफाइल",
+    "login": "लॉगिन",
+    "signup": "साइन अप",
+    "logout": "लॉगआउट"
+  },
+  "auth": {
+    "login": "लॉगिन",
+    "signup": "साइन अप",
+    "email": "ईमेल",
+    "password": "पासवर्ड",
+    "confirmPassword": "पासवर्ड की पुष्टि करें",
+    "name": "पूरा नाम",
+    "phone": "फोन नंबर",
+    "forgotPassword": "पासवर्ड भूल गए?",
+    "noAccount": "कोई खाता नहीं है?",
+    "hasAccount": "पहले से खाता है?",
+    "welcome": "वापस स्वागत है!",
+    "createAccount": "अपना खाता बनाएं",
+    "loginToAccount": "अपने खाते में लॉगिन करें"
+  },
+  "complaints": {
+    "title": "शीर्षक",
+    "description": "विवरण",
+    "category": "श्रेणी",
+    "status": "स्थिति",
+    "priority": "प्राथमिकता",
+    "location": "स्थान",
+    "submittedBy": "द्वारा सबमिट किया गया",
+    "createdAt": "बनाया गया",
+    "fileComplaint": "शिकायत दर्ज करें",
+    "myComplaints": "मेरी शिकायतें",
+    "allComplaints": "सभी शिकायतें",
+    "submitted": "सबमिट किया गया",
+    "inProgress": "प्रगति में",
+    "resolved": "हल हो गया",
+    "rejected": "अस्वीकृत",
+    "upvote": "अपवोट",
+    "downvote": "डाउनवोट",
+    "comment": "टिप्पणी",
+    "comments": "टिप्पणियां",
+    "addComment": "एक टिप्पणी जोड़ें...",
+    "departments": {
+      "sanitation": "स्वच्छता",
+      "roads": "सड़कें",
+      "water": "पानी",
+      "electricity": "बिजली",
+      "parks": "पार्क",
+      "transport": "परिवहन",
+      "health": "स्वास्थ्य",
+      "other": "अन्य"
+    }
+  },
+  "communities": {
+    "title": "समुदाय",
+    "join": "शामिल हों",
+    "leave": "छोड़ें",
+    "create": "समुदाय बनाएं",
+    "myCommunities": "मेरे समुदाय",
+    "allCommunities": "सभी समुदाय",
+    "members": "सदस्य",
+    "posts": "पोस्ट",
+    "discussions": "चर्चा",
+    "newPost": "नई पोस्ट",
+    "postTitle": "पोस्ट शीर्षक",
+    "postContent": "अपनी पोस्ट सामग्री लिखें...",
+    "createPost": "पोस्ट बनाएं"
+  },
+  "dashboard": {
+    "welcome": "आपके डैशबोर्ड में आपका स्वागत है",
+    "stats": "आंकड़े",
+    "recentComplaints": "हाल की शिकायतें",
+    "myCommunities": "मेरे समुदाय",
+    "nearbyIssues": "आसपास की समस्याएं",
+    "quickActions": "त्वरित कार्य"
+  },
+  "profile": {
+    "profile": "प्रोफाइल",
+    "editProfile": "प्रोफाइल संपादित करें",
+    "personalInfo": "व्यक्तिगत जानकारी",
+    "accountSettings": "खाता सेटिंग्स",
+    "statistics": "आंकड़े",
+    "complaintsSubmitted": "शिकायतें सबमिट की गईं",
+    "reputationScore": "प्रतिष्ठा स्कोर",
+    "joinedDate": "शामिल होने की तारीख"
+  },
+  "map": {
+    "complaintMap": "शिकायत मानचित्र",
+    "showAll": "सभी दिखाएं",
+    "filterByStatus": "स्थिति के आधार पर फिल्टर करें",
+    "filterByCategory": "श्रेणी के आधार पर फिल्टर करें",
+    "viewDetails": "विवरण देखें"
+  },
+  "home": {
+    "hero": {
+      "title": "नागरिक समस्याओं की रिपोर्ट करें, बेहतर समुदाय बनाएं",
+      "subtitle": "हमारे पड़ोस और शहरों को बेहतर बनाने के लिए मिलकर काम कर रहे हजारों नागरिकों में शामिल हों।",
+      "cta": "शुरू करें"
+    },
+    "features": {
+      "title": "यह कैसे काम करता है",
+      "report": {
+        "title": "समस्याओं की रिपोर्ट करें",
+        "description": "फोटो और स्थान विवरण के साथ नागरिक समस्याओं की आसानी से रिपोर्ट करें।"
+      },
+      "track": {
+        "title": "प्रगति ट्रैक करें",
+        "description": "अपनी शिकायतों की स्थिति की निगरानी करें और रीयल-टाइम अपडेट देखें।"
+      },
+      "community": {
+        "title": "समुदायों में शामिल हों",
+        "description": "पड़ोसियों से जुड़ें और स्थानीय मुद्दों पर मिलकर काम करें।"
+      }
+    },
+    "stats": {
+      "title": "वास्तविक प्रभाव बना रहे हैं",
+      "complaints": "शिकायतें दर्ज",
+      "resolved": "समस्याएं हल",
+      "communities": "सक्रिय समुदाय",
+      "users": "पंजीकृत उपयोगकर्ता"
+    }
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "submit": "Submit",
+    "search": "Search",
+    "filter": "Filter",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "close": "Close"
+  },
+  "nav": {
+    "home": "Home",
+    "dashboard": "Dashboard",
+    "complaints": "Complaints",
+    "communities": "Communities",
+    "map": "Map",
+    "profile": "Profile",
+    "login": "Login",
+    "signup": "Sign Up",
+    "logout": "Logout"
+  },
+  "auth": {
+    "login": "Login",
+    "signup": "Sign Up",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "name": "Full Name",
+    "phone": "Phone Number",
+    "forgotPassword": "Forgot Password?",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?",
+    "welcome": "Welcome back!",
+    "createAccount": "Create your account",
+    "loginToAccount": "Login to your account"
+  },
+  "complaints": {
+    "title": "Title",
+    "description": "Description",
+    "category": "Category",
+    "location": "Location",
+    "submittedBy": "Submitted By",
+    "createdAt": "Created At",
+    "fileComplaint": "File a Complaint",
+    "submitComplaint": "Submit Complaint",
+    "submitting": "Submitting...",
+    "myComplaints": "My Complaints",
+    "allComplaints": "All Complaints",
+    "submitted": "Submitted",
+    "inProgress": "In Progress",
+    "resolved": "Resolved",
+    "rejected": "Rejected",
+    "upvote": "Upvote",
+    "downvote": "Downvote",
+    "comment": "Comment",
+    "comments": "Comments",
+    "addComment": "Add a comment...",
+    "images": "Images",
+    "uploadFiles": "Upload files",
+    "submitAnonymously": "Submit anonymously",
+    "selectDepartment": "Select Department",
+    "selectPriority": "Select Priority",
+    "department": "Department",
+    "status": {
+      "pending": "Pending",
+      "inProgress": "In Progress",
+      "resolved": "Resolved",
+      "rejected": "Rejected"
+    },
+    "priority": {
+      "low": "Low",
+      "medium": "Medium",
+      "high": "High",
+      "urgent": "Urgent"
+    },
+    "departments": {
+      "sanitation": "Sanitation",
+      "roads": "Roads",
+      "water": "Water",
+      "electricity": "Electricity",
+      "parks": "Parks",
+      "transport": "Transport",
+      "health": "Health",
+      "other": "Other"
+    }
+  },
+  "communities": {
+    "title": "Communities",
+    "subtitle": "Connect with your neighbors and discuss local issues",
+    "join": "Join",
+    "leave": "Leave",
+    "view": "View",
+    "create": "Create Community",
+    "myCommunities": "My Communities",
+    "allCommunities": "All Communities",
+    "browseCommunities": "Browse Communities",
+    "noJoinedCommunities": "No joined communities",
+    "noCommunitiesFound": "No communities found",
+    "joinCommunityPrompt": "Join communities to start engaging with your neighbors",
+    "createCommunityPrompt": "Be the first to create a community in your area",
+    "searchPlaceholder": "Search communities...",
+    "members": "Members",
+    "posts": "Posts",
+    "discussions": "Discussions",
+    "newPost": "New Post",
+    "postTitle": "Post Title",
+    "postContent": "Write your post content...",
+    "createPost": "Create Post"
+  },
+  "dashboard": {
+    "welcome": "Welcome",
+    "subtitle": "Track your submitted complaints and community engagement",
+    "totalComplaints": "Total Complaints",
+    "submitComplaint": "Submit New Complaint",
+    "viewMap": "View Map",
+    "recentComplaints": "Recent Complaints",
+    "recentComplaintsSubtitle": "Your most recently submitted complaints",
+    "noComplaints": "No complaints yet",
+    "noComplaintsSubtitle": "Get started by submitting your first complaint",
+    "submitFirstComplaint": "Submit First Complaint",
+    "viewAllComplaints": "View All Complaints",
+    "stats": "Statistics",
+    "myCommunities": "My Communities",
+    "nearbyIssues": "Nearby Issues",
+    "quickActions": "Quick Actions"
+  },
+  "profile": {
+    "profile": "Profile",
+    "editProfile": "Edit Profile",
+    "personalInfo": "Personal Information",
+    "accountSettings": "Account Settings",
+    "statistics": "Statistics",
+    "complaintsSubmitted": "Complaints Submitted",
+    "reputationScore": "Reputation Score",
+    "joinedDate": "Joined Date"
+  },
+  "map": {
+    "complaintMap": "Complaint Map",
+    "showAll": "Show All",
+    "filterByStatus": "Filter by Status",
+    "filterByCategory": "Filter by Category",
+    "viewDetails": "View Details"
+  },
+  "home": {
+    "hero": {
+      "title": "Report Civic Issues, Build Better Communities",
+      "subtitle": "Join thousands of citizens working together to improve our neighborhoods and cities.",
+      "cta": "Get Started"
+    },
+    "features": {
+      "title": "How It Works",
+      "report": {
+        "title": "Report Issues",
+        "description": "Easily report civic problems with photos and location details."
+      },
+      "track": {
+        "title": "Track Progress",
+        "description": "Monitor the status of your complaints and see real-time updates."
+      },
+      "community": {
+        "title": "Join Communities",
+        "description": "Connect with neighbors and work together on local issues."
+      }
+    },
+    "stats": {
+      "title": "Making a Real Impact",
+      "complaints": "Complaints Filed",
+      "resolved": "Issues Resolved",
+      "communities": "Active Communities",
+      "users": "Registered Users"
+    }
+  }
+}
